@@ -39,7 +39,7 @@ Abre **StreamMID** y escribe el **servidor, usuario y contraseña** que te dio S
 - **Favoritos ⭐:** deja apretado **OK** sobre un canal, película o serie.
 
 ## Actualizaciones
-La app avisa sola cuando hay una versión nueva: presiona **Actualizar**. La primera vez Android te pedirá permitir que StreamMID instale actualizaciones; actívalo y vuelve a presionar Actualizar.
+La app avisa sola cuando hay una versión nueva: presiona **Actualizar**. La primera vez se abre la pantalla **"Instalar apps desconocidas"**: baja hasta **StreamMID**, actívala, regresa con el botón **atrás** y vuelve a presionar **Actualizar**. Eso es solo una vez.
 
 ## ¿Problemas?
 - **"App no instalada"**: si tenías una versión de prueba anterior, desinstálala primero y vuelve a instalar.
