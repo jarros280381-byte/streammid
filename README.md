@@ -52,3 +52,8 @@ La app avisa sola cuando hay una versión nueva: presiona **Actualizar**. La pri
 ## ¿Problemas?
 - **"App no instalada"**: si tenías una versión de prueba anterior, desinstálala primero y vuelve a instalar.
 - **Un canal no abre**: prueba otro; si ninguno abre, revisa tu internet o contacta a StreamMID.
+
+---
+
+## ⚠️ Aviso de responsabilidad
+StreamMID es un reproductor multimedia: **no incluye, aloja ni vende contenido**. Cada usuario es responsable del contenido que reproduce y de contar con los derechos para verlo.
