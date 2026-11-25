@@ -4,6 +4,8 @@
 
 App oficial de StreamMID para **Google TV, Android TV y Fire TV Stick** (Android 8 o más nuevo). Pesa menos de 3 MB.
 
+## 📲 Código Downloader: **7395455**
+
 **Descarga directa:** https://github.com/jarros280381-byte/streammid/releases/latest/download/StreamMID.apk
 
 ---
@@ -19,7 +21,13 @@ App oficial de StreamMID para **Google TV, Android TV y Fire TV Stick** (Android
 - **Fire TV Stick:** Configuración → Mi Fire TV → Acerca de → presiona 7 veces el nombre del dispositivo. Luego Mi Fire TV → Opciones para desarrolladores → **Instalar apps desconocidas** → activa **Downloader**.
 
 ### 3. Descarga StreamMID
-Abre Downloader y en el cuadro escribe el **código de StreamMID** que te dio tu vendedor, o este link:
+Abre Downloader y en el cuadro escribe el código:
+
+```
+7395455
+```
+
+Si el código no funciona, escribe este link completo:
 
 ```
 https://github.com/jarros280381-byte/streammid/releases/latest/download/StreamMID.apk
