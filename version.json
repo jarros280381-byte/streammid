@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "notes": "Nuevo: varias cuentas. En el inicio toca «Cuentas» para ver todas, cambiar de cuenta, editarlas, borrarlas o agregar otra. Tu cuenta actual ya aparece guardada.",
+  "versionCode": 14,
+  "versionName": "2.3",
+  "notes": "Arreglo: algunos canales no abrían porque la vista previa seguía conectada al abrir la pantalla completa. Ahora la app usa una sola conexión, como debe ser.",
   "apk": "https://github.com/jarros280381-byte/streammid/releases/latest/download/StreamMID.apk"
 }
