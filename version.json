@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "notes": "Buscador mejorado: ahora busca en todas las categorías (canales, películas y series), sin importar acentos ni mayúsculas.",
+  "versionCode": 13,
+  "versionName": "2.2",
+  "notes": "Nuevo: varias cuentas. En el inicio toca «Cuentas» para ver todas, cambiar de cuenta, editarlas, borrarlas o agregar otra. Tu cuenta actual ya aparece guardada.",
   "apk": "https://github.com/jarros280381-byte/streammid/releases/latest/download/StreamMID.apk"
 }
